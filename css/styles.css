@@ -6,5 +6,27 @@ body{
 
 .navegacion{
     background-color: #2b2b2b;
-    font-size: 14px;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px;
+}
+
+h2{
+    font-size: 24px;
+    font-weight: 500;
+    color: #2b2b2b;
+}
+
+.nav-link{
+    color: #ffffff;
+}
+.title_header{
+    padding: 167px;
+    padding-left: 17rem;
+}
+
+.nav-link.active{
+    color: #ffffff;
+    border-bottom: solid #ffffff 4px;
+    border-radius: 2px;
 }
