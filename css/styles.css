@@ -21,9 +21,11 @@ h2{
 .nav-link{
     color: #ffffff;
 }
-.title_header{
-    padding: 167px;
-    padding-left: 17rem;
+.title_homepage_header{
+    padding: 160px;
+    padding-left: 220px;
+    padding-right: 220px;
+    padding-bottom: 60px;
 }
 
 .nav-link.active{
@@ -63,4 +65,17 @@ h2{
 
 .spacing{
     letter-spacing: 1px
+}
+
+.title_header{
+    padding-left: 1rem;
+}
+
+.p_header{
+    color: #8A8A8A;
+}
+
+.px_default{
+    width: 470px;
+    height: 594px;
 }
