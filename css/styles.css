@@ -12,6 +12,10 @@ body{
     padding: 10px;
 }
 
+.custom-container{
+    max-width: 1200px;
+}
+
 h2{
     font-size: 24px;
     font-weight: 500;
@@ -76,6 +80,6 @@ h2{
 }
 
 .px_default{
-    width: 470px;
+    width: 1000px;
     height: 594px;
 }
