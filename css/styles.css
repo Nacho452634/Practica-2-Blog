@@ -27,9 +27,18 @@ h2{
 }
 .title_homepage_header{
     padding: 160px;
-    padding-left: 220px;
+    padding-left: 101px;
     padding-right: 220px;
-    padding-bottom: 60px;
+    padding-bottom: 0px;
+}
+
+.info_homepage_header{
+    padding-left: 90px;
+}
+
+.homepage_header{
+    padding-left: 90px;
+    padding-top: 90px;
 }
 
 .nav-link.active{
@@ -69,10 +78,6 @@ h2{
 
 .spacing{
     letter-spacing: 1px
-}
-
-.title_header{
-    padding-left: 1rem;
 }
 
 .p_header{
