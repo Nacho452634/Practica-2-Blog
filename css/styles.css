@@ -5,6 +5,18 @@ body{
     font-family: "Epilogue",sans-serif;
 }
 
+.padding-btn{
+    padding-top: 70px;
+    padding-bottom: 160px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+.padding-btn-in{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
 .navegacion{
     background-color: #2b2b2b;
     font-size: 18px;
@@ -52,6 +64,12 @@ h2{
     font-size: 13px;
 }
 
+.btn-grande{
+    color: #ffffff;
+    background-color: #1976D2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .grey{
     color: #AAAAAA;
     font-size: 16px;
@@ -87,4 +105,9 @@ h2{
 .px_default{
     width: 1000px;
     height: 594px;
+}
+
+.weight{
+    font-weight: 600;
+    font-size: 20px;
 }
