@@ -53,6 +53,15 @@ h2{
     padding-top: 90px;
 }
 
+.homepage_header2{
+    padding-left: 168px;
+    padding-top: 90px;
+}
+
+.homepage_footer{
+    padding-left: 90px;
+}
+
 .nav-link.active{
     color: #ffffff;
     border-bottom: solid #ffffff 4px;
@@ -64,10 +73,26 @@ h2{
     font-size: 13px;
 }
 
+.btn-img:hover{
+    background-color: #F6FAFD;
+}
+
 .btn-grande{
     color: #ffffff;
     background-color: #1976D2;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-grande:hover{
+    background-color: #1565C0;
+    color: #ffffff;
+}
+
+.email-address{
+    border: 1px;
+    border-radius: 5px;
+    border-color: #C4C4C4;
+    border-style: solid;
 }
 
 .grey{
@@ -110,4 +135,9 @@ h2{
 .weight{
     font-weight: 600;
     font-size: 20px;
+}
+
+.margin-footer{
+    margin-bottom: 100px;
+    letter-spacing: 10px;
 }
