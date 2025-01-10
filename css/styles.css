@@ -137,7 +137,16 @@ h2{
     font-size: 20px;
 }
 
+.weight2{
+    font-weight: 400;
+    font-size: 17px;
+}
+
 .margin-footer{
     margin-bottom: 100px;
     letter-spacing: 10px;
+}
+
+.width-img{
+    width: 900px;
 }
