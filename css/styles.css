@@ -134,7 +134,23 @@ h2{
     border-radius: 5px;
     border-color: #FFF1D3;
     border-style: solid;
-    width: 800px;
+    width: 80%;
+    margin-left: 14vh;
+}
+
+.contacte{
+    width: 80%;
+    margin-left: 14vh;
+}
+
+.email-address-contacte2{
+    border: 2px;
+    border-radius: 5px;
+    border-color: #FFF1D3;
+    border-style: solid;
+    width: 80%;
+    height: 100px;
+    margin-left: 14vh;
 }
 
 .email-address{
